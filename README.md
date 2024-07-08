@@ -17,3 +17,7 @@ Feel free to explore my repositories and get in touch if you have any questions 
 [![GitHub](https://img.shields.io/badge/GitHub-Follow-green)](https://github.com/shakir5154)
 [![Email](https://img.shields.io/badge/Gmail-EmailMe-red)](mailto:shakirullahshakir999@gmail.com)
 [![Facebook](https://img.shields.io/badge/Facebook-Follow-blue)](https://web.facebook.com/ShakirPakhtun5154/)
+
+
+**Skilla & Languages:**
+[![My Skills](https://skillicons.dev/icons?i=latex,flutter&perline=3)](https://skillicons.dev)
