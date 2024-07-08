@@ -19,6 +19,6 @@ Feel free to explore my repositories and get in touch if you have any questions 
 [![Facebook](https://img.shields.io/badge/Facebook-Follow-blue)](https://web.facebook.com/ShakirPakhtun5154/)
 
 
-**Skilla & Languages:**
-[![My Skills](https://skillicons.dev/icons?i=latex,flutter,r,python,powerbi,sql,stata&perline=3)](https://skillicons.dev)
+##Skilla & Languages:
+[![My Skills](https://skillicons.dev/icons?i=latex,flutter,r,python,powerbi,mysql,stata&perline=3)](https://skillicons.dev)
 
