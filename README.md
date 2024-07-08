@@ -20,10 +20,9 @@ Feel free to explore my repositories and get in touch if you have any questions 
 
 
 ## Skills & Languages:
-[![My Skills](https://skillicons.dev/icons?i=latex,r,python,powerbi,mysql&perline=3)](https://skillicons.dev)
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=latex,r,python,powerbi,mysql,vim" />
+    <img src="https://skillicons.dev/icons?i=latex,r,python,mysql" />
   </a>
 </p>
