@@ -28,5 +28,4 @@ Feel free to explore my repositories and get in touch if you have any questions 
 </p>
 
 [![Shakir Ullah Shakir's GitHub stats](https://github-readme-stats.vercel.app/api?username=shakir5154&show_icons=true&theme=dark)](https://github.com/shakir5154)
-[image](https://github.com/shakir5154/shakir5154/assets/116002109/51713964-b730-4e3b-bdcf-f89ae43ada92)
 
