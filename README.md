@@ -13,6 +13,6 @@ Feel free to explore my repositories and get in touch if you have any questions 
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue)](https://linkedin.com/in/shakir-ullah-shakir)
 [![GitHub](https://img.shields.io/badge/GitHub-Follow-green)](https://github.com/shakir5154)
-[![Email](https://img.shields.io/badge/Email-shakirullahshakir999%40gmail.com-red)](mailto:shakirullahshakir999@gmail.com)
+[![Email](https://img.shields.io/badge/Gmail-Email-red)](mailto:shakirullahshakir999@gmail.com)
 [![Facebook](https://img.shields.io/badge/Facebook-Follow-blue)](https://web.facebook.com/ShakirPakhtun5154/)
 
