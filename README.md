@@ -12,9 +12,7 @@ I am Shakir Ullah Shakir, a passionate student majoring in Economics and Mathema
 Feel free to explore my repositories and get in touch if you have any questions or collaboration ideas!
 
 
-<p align="center">
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue)](https://linkedin.com/in/shakir-ullah-shakir)
 [![GitHub](https://img.shields.io/badge/GitHub-Follow-green)](https://github.com/shakir5154)
 [![Email](https://img.shields.io/badge/Gmail-EmailMe-red)](mailto:shakirullahshakir999@gmail.com)
 [![Facebook](https://img.shields.io/badge/Facebook-Follow-blue)](https://web.facebook.com/ShakirPakhtun5154/)
-</p>
