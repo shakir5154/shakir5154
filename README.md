@@ -29,3 +29,5 @@ Feel free to explore my repositories and get in touch if you have any questions 
 
 [![Shakir Ullah Shakir's GitHub stats](https://github-readme-stats.vercel.app/api?username=shakir5154&show_icons=true&theme=dark)](https://github.com/shakir5154)
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=shakir5154&layout=compact&theme=dark)](https://github.com/shakir5154)
+
