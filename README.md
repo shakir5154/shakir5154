@@ -12,6 +12,6 @@ I am Shakir Ullah Shakir, a passionate student majoring in Economics and Mathema
   - [LinkedIn](https://linkedin.com/in/shakir-ullah-shakir)
   - [GitHub](https://github.com/shakir5154)
 - 😄 Pronouns: He/Him
-- ⚡ Fun fact: I enjoy exploring new Hindi movies and sharing my thoughts on them on my page 'Shakir Pakhtun'.
+- ⚡ Fun fact: I enjoy exploring social media and sharing my thoughts on my page 'Shakir Pakhtun'.
 
 Feel free to explore my repositories and get in touch if you have any questions or collaboration ideas!
