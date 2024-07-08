@@ -11,6 +11,7 @@ I am Shakir Ullah Shakir, a passionate student majoring in Economics and Mathema
 
 Feel free to explore my repositories and get in touch if you have any questions or collaboration ideas!
 
+**Contect with me:**
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue)](https://linkedin.com/in/shakir-ullah-shakir)
 [![GitHub](https://img.shields.io/badge/GitHub-Follow-green)](https://github.com/shakir5154)
