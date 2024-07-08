@@ -8,7 +8,7 @@ I am Shakir Ullah Shakir, a passionate student majoring in Economics and Mathema
 - 💬 Ask me about economics, mathematics, data analysis.
 - 📫 **How to reach me:** 
 
-  [![Email](https://img.shields.io/badge/Email-shakirullahshakir999%40gmail.com-red)](mailto:shakirullahshakir999@gmail.com)
+  [![Email](https://img.shields.io/badge/Email-shakirullahshakir999%40gmail.com-red)]
   [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue)](https://linkedin.com/in/shakir-ullah-shakir)
   [![GitHub](https://img.shields.io/badge/GitHub-Follow-green)](https://github.com/shakir5154)
 
