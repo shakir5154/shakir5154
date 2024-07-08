@@ -20,4 +20,5 @@ Feel free to explore my repositories and get in touch if you have any questions 
 
 
 **Skilla & Languages:**
-[![My Skills](https://skillicons.dev/icons?i=latex,flutter&perline=3)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=latex,flutter,r,python,powerbi,sql,stata&perline=3)](https://skillicons.dev)
+
