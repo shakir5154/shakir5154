@@ -1,8 +1,8 @@
 <h1 align="center" style="font-size: 32px;">Hi there! 👋</h1>
 
-I am Shakir Ullah Shakir, a passionate student majoring in Economics and Mathematics from IBA Karachi. Welcome to my GitHub profile!
+I am Shakir Ullah Shakir, a passionate student MS Economics from LUMS and BS Economics and Mathematics from IBA Karachi. Welcome to my GitHub profile!
 
-- 🔭 I’m currently working on enhancing my data analysis skills using Spyder and Streamlit.
+- 🔭 I’m currently working on enhancing my data analysis skills using Jupyter and Streamlit.
 - 🌱 I’m currently learning advanced research methods in economics through Coursera courses.
 - 👯 I’m looking to collaborate on data analysis and research projects, especially those related to economics and education.
 - 💬 Ask me about economics, mathematics, data analysis.
