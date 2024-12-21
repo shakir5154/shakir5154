@@ -1,7 +1,7 @@
 <h1 align="center" style="font-size: 32px;">Hi there! 👋</h1>
 
-I am Shakir Ullah Shakir, a passionate student MS Economics from LUMS and BS Economics and Mathematics from IBA Karachi. Welcome to my GitHub profile!
-
+I am Shakir Ullah Shakir, a dedicated student pursuing an MS in Economics at LUMS, with a strong academic foundation in Economics and Mathematics earned during my BS from IBA Karachi. 
+Welcome to my GitHub profile!
 - 🔭 I’m currently working on enhancing my data analysis skills using Jupyter and Streamlit.
 - 🌱 I’m currently learning advanced research methods in economics through Coursera courses.
 - 👯 I’m looking to collaborate on data analysis and research projects, especially those related to economics and education.
