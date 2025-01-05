@@ -3,7 +3,7 @@
 I am Shakir Ullah Shakir, a dedicated student pursuing an MS in Economics at LUMS, with a strong academic foundation in Economics and Mathematics earned during my BS from IBA Karachi. 
 Welcome to my GitHub profile!
 - 🔭 I’m currently working on enhancing my data analysis skills using Jupyter and Streamlit.
-- 🌱 I’m currently learning advanced research methods in economics through Coursera courses.
+- 🌱 I’m learning advanced research methods in economics through Coursera and DataCamp courses.
 - 👯 I’m looking to collaborate on data analysis and research projects, especially those related to economics and education.
 - 💬 Ask me about economics, mathematics, data analysis.
 - 😄 **Pronouns:** He/Him
