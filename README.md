@@ -7,7 +7,7 @@ Welcome to my GitHub profile!
 - 👯 I’m looking to collaborate on data analysis and research projects, especially those related to economics and education.
 - 💬 Ask me about economics, mathematics, data analysis.
 - 😄 **Pronouns:** He/Him
-- ⚡ **Fun fact:** I enjoy exploring social media and sharing my thoughts on my page 'Shakir Pakhtun'.
+
 
 Feel free to explore my repositories and get in touch if you have any questions or collaboration ideas!
 
